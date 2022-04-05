@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+	<head> 
+			<title>Kamtronix Technologies</title>
+			<style type="text/css">
+			h1,h2{background-color: green;
+				color: white;
+				font-size: 30px;
+				padding: 15px,20px
+			}
+			p{background-color: grey;
+				color: white;
+				font-size: 16px;
+				padding: 15px,20px
+			}
+			
+			</style>
+	</head>
+	<body style = "background-color:brown";>
+	<h1> WELCOME TO KAMTRONIX GLOBAL TECHNOLOGY</h1>
+	<h2> Introduction </h2>
+	<p><strong><em>Welcome to kamtronix Global Technology</em>,</strong> </p>
+	
+	<p>we are into Information Technology and services such as;</p>
+<ul> <li>Infrastructure Networking (Cisco, Huawei, HP)</li> <li> Data Centre Power Development & Management</li>
+<li>Cyber Security (SOPHOS & NEXUSGAURD) Expertise</li> 
+<li>Software Development for Business Solutions and Website Development.</li>
+<p>Visit <a href="file:///C:/Users/AYODEJI%20KAREEM/Documents/NOTEPAD++/root_folder/services/service.html">our service page</a></p>
+</ul>
+	</body>
+
+
+
+</html>
